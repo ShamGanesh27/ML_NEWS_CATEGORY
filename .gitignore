@@ -4,3 +4,17 @@ __pycache__/
 venv/
 .env
 .DS_Store
+# Multilingual model files
+multilingual_model.pkl
+multilingual_encoder.pkl
+
+# Temporary multilingual test scripts
+multilingual_test.py
+test_model_speed.py
+test_multilingual_model.py
+test_predictor.py
+test_translation.py
+test_zero_shot.py
+validate_zero_shot.py
+train_multilingual_model.py
+create_multilingual_data.py
